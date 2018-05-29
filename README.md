@@ -10,3 +10,5 @@ use nltk /Naive Bayse to deal with text classification
 3. Calculate the percentage of three industries
 
 4. Output example like: {‘tmt’:0.333,'food':0.333,'eng':0.333}
+
+5. Just run solution.py
